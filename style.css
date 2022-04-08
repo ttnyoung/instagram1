@@ -1,0 +1,11 @@
+h2 {
+    color:red;
+}
+.highlight {
+    border:solid;
+    background-color:red;
+}
+#profile {
+    border:solid;
+    border-color:blue;
+}
